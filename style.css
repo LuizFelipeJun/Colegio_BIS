@@ -2,3 +2,30 @@
     width: 100%;
     height: 500px;
 }
+
+body {
+    text-align: center !important;
+    background-color: aliceblue !important;
+}
+
+#Sobre {
+    width: 300px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    font-family: 'Indie Flower', cursive;
+}
+
+#titulo {
+    font-family: 'Indie Flower', cursive;
+}
+
+img {
+    width: 200px;
+    height: 150px;
+}
+
+#volei {
+    width: 200px;
+    height: 100px;
+}
